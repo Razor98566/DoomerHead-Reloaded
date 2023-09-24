@@ -1,0 +1,13 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/Razor98566/DoomerHead-Reloaded/master/versionchecker.version",
+    "modName":"DoomerHead Reloaded",
+    "modThreadId":17721,
+    # For example: https://www.nexusmods.com/starsector/mods/3 has a modNexusId of 3
+    #"modNexusId":,
+    "modVersion":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0
+    }
+}
