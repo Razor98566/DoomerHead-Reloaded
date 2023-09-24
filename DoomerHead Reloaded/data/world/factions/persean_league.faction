@@ -1,0 +1,29 @@
+{
+	"variantOverrides":{
+		"uncucked_hammerhead_Balanced":50,
+		"uncucked_hammerhead_CS":50,
+		"uncucked_hammerhead_Elite":50,
+		"uncucked_doom_Attack":50,
+		"uncucked_doom_Strike":50,
+		"uncucked_doom_Support":50
+	},
+	"hullFrequency":{
+		"tags":{"uncucked":5},
+		"hulls":{
+			"uncucked_doom":5,
+			"uncucked_hammerhead":5
+		},
+	},
+	"knownShips":{
+		"tags":["uncucked"],
+		"hulls":[],
+	},
+	"knownFighters":{
+		"tags":[],
+		"fighters":[],
+	},
+	"knownWeapons":{
+		"tags":[],
+		"weapons":[],
+	},
+},

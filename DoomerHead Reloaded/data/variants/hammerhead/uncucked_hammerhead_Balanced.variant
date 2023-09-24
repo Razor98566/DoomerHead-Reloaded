@@ -1,0 +1,43 @@
+{
+    "displayName": "Balanced",
+    "fluxCapacitors": 5,
+    "fluxVents": 20,
+    "hullId": "uncucked_hammerhead",
+    "hullMods": ["missleracks"],
+    "quality": 0.5,
+    "variantId": "uncucked_hammerhead_Balanced",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavymg",
+                "WS 002": "heavymg"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "harpoon",
+                "WS 004": "harpoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "lightag",
+                "WS 006": "lightag"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lrpdlaser",
+                "WS 008": "lrpdlaser"
+            }
+        }
+    ]
+}

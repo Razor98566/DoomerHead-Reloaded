@@ -1,0 +1,8 @@
+{
+	"id":"DH:R", # internal id
+	"name":"DoomerHead Reloaded", # displayed to the player
+	"version":"0.1",
+	"description":"This mod is inspired by the despair and pleads of a good friend who wanted the old Hammerhead and the old Doom Phasecloak back. So I added a version of both ships as they are found before the nerfs.",
+	"gameVersion":"0.96a",
+	"author":"Razor98566"
+}

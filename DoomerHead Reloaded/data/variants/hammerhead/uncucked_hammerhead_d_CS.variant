@@ -1,0 +1,37 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 20,
+    "hullId": "uncucked_hammerhead",
+    "hullMods": [],
+    "quality": 0,
+    "variantId": "uncucked_hammerhead_CS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "arbalest",
+                "WS 002": "arbalest"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "harpoon",
+                "WS 004": "harpoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 007": "pdlaser",
+                "WS 008": "pdlaser"
+            }
+        }
+    ]
+}
